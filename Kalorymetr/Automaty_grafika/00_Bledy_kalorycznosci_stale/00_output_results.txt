@@ -1,0 +1,74 @@
+WPŁYW BŁEDÓW POMIARU C i D NA KALORYCZNOŚĆ
+
+
+Dla temperatury: T=740 
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.667 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.393 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=0.001: -0.682 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.393 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 9.690 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 6.473 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=-0.001: 12.605 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 6.473 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -9.690 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -6.473 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=0.001: -8.615 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -6.473 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.667 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.393 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=-0.001: 0.713 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.393 %
+
+Dla temperatury: T=750 
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.776 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.463 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=0.001: -0.541 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.463 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 9.640 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 6.421 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=-0.001: 8.707 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 6.421 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -9.640 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -6.421 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=0.001: -8.394 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -6.421 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.776 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.463 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=-0.001: 0.548 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.463 %
+
+Dla temperatury: T=760 
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.673 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.397 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=0.001: -0.501 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.397 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 8.705 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 5.784 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=-0.001: 8.824 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 5.784 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -8.705 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -5.784 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=0.001: -8.055 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -5.784 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.673 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.397 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=-0.001: 0.509 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.397 %
+
+Dla temperatury: T=770 
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.669 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.394 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=0.001: -0.479 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=0.001: -0.394 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 9.215 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 6.112 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=0.001, D=-0.001: 10.220 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=0.001, D=-0.001: 6.112 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -9.215 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -6.112 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=0.001: -10.140 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=0.001: -6.112 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.669 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.394 %
+Maksymalny błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą): C=-0.001, D=-0.001: 0.479 %
+Średni błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną): C=-0.001, D=-0.001: 0.394 %

@@ -1,0 +1,26 @@
+NACHYLENIE PŁASZCZYZN APROKSYMACJI PARAMETRÓW C i D WZGLĘDEM SIEBIE
+
+
+Dla temperatury: T=740
+COS kąta nahylenia płaszczyzn względem siebie: 0.99792
+Kąt nahylenia płaszczyzn względem siebie: 3.693
+TAN kąta nahylenia prostych dla konkretnych wartosci parametru względem siebie: -0.11200
+Kąt nahylenia prostych dla konkretnych wartosci parametru względem siebie: -6.390
+
+Dla temperatury: T=750
+COS kąta nahylenia płaszczyzn względem siebie: 0.99762
+Kąt nahylenia płaszczyzn względem siebie: 3.952
+TAN kąta nahylenia prostych dla konkretnych wartosci parametru względem siebie: -0.12135
+Kąt nahylenia prostych dla konkretnych wartosci parametru względem siebie: -6.919
+
+Dla temperatury: T=760
+COS kąta nahylenia płaszczyzn względem siebie: 0.99740
+Kąt nahylenia płaszczyzn względem siebie: 4.133
+TAN kąta nahylenia prostych dla konkretnych wartosci parametru względem siebie: -0.14437
+Kąt nahylenia prostych dla konkretnych wartosci parametru względem siebie: -8.215
+
+Dla temperatury: T=770
+COS kąta nahylenia płaszczyzn względem siebie: 0.99769
+Kąt nahylenia płaszczyzn względem siebie: 3.896
+TAN kąta nahylenia prostych dla konkretnych wartosci parametru względem siebie: -0.14380
+Kąt nahylenia prostych dla konkretnych wartosci parametru względem siebie: -8.183

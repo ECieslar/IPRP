@@ -1,0 +1,6 @@
+WPŁYW BŁEDÓW POMIARU C i D NA KALORYCZNOŚĆ
+
+Średnia błędu względnego wyznacznia kaloryczności (aproksymacja płaszczyzną): 0.06472 (=0.0)
+Odchylenie błedu względnego wyznacznia kaloryczności (aproksymacja płaszczyzną): 1.072 (<0.170)%
+Średnia błędu względnego wyznacznia kaloryczności (aproksymacja paraboloidą): 0.07715 (=0.0)
+Odchylenie błedu względnego wyznacznia kaloryczności (aproksymacja paraboloidą): 1.681 (<0.170)%
