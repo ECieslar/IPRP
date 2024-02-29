@@ -1,0 +1,23 @@
+TEXT:
+Obliczenie wartości kaloryczności dla wszystkich punktów odchylenie i wartość średnia (plik z wynikami)
+Wartość średnia odchylenia od płaszczyzny C i D
+Odchylenie standardowe od płaszczyzny C i D
+Wartość średnia odchylenia od paraboloidy C i D
+Odchylenia standardowe od paraboloidy C i D
+Odchylenie standardowe i średnia bładu kaloryczności dla +/- error o określonej wartości
+Odchylenie standardowe i średnia błedu kaloryczności dla rozkładu losowego normalnego błedów C i D
+Warość średnia współczynnika korelacji parametrów C,D i temperatury obliczonej dla każdego składu
+Kąt miedzy prostymi stałej wartości C i D
+Sprawdzenie normalności rozkładu Chi2
+
+GRAFICS
+Wykres 3D płaszczyznowy błedów aproksymacji - C i D
+Wykres 3D punktowy błedów aproksymacji - C i D
+Wykres 3D punktowy róznic błedów względnych - C i D
+Wykres 3D bładu kaloryczności dla +/- error o określonej wartości
+Wykres 3D  błedu kaloryczności dla rozkładu losowego normalnego błedów C i D
+Porównanie regresji płaszczyznowei i paraboloidalnej z naniesionymi punktami pomiarowymi dla C i D
+Wzajemne nachyelenie płaszczyzn C i D względem siebie
+Wykres kąta miedzy prostymi stałej wartości C i D
+Kąt miedzy prostymi 
+Wykres 2D histogramu
