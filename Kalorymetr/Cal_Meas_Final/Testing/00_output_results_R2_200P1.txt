@@ -1,0 +1,260 @@
+OCENA DANYCH POMIAROWYCH
+(dokładność regresji płaszczyznowej)
+
+###############################################################################################################################################
+01 - Obliczenie wartości kaloryczności dla wszystkich punktów odchylenie i wartość średnia (plik z wynikami)
+###############################################################################################################################################
+## Podstawowy test  wartości oczekiwanej i odchylenia standardowego błedu pomiaru kaloryczności
+## Dla wszystkich temperatur z zastosowaniem regresji liniowej do obliczenia wartości parametru C i D dla każdego składu
+## Wartość oczekiwana powinna wynosić 0 (poprawność regresji), a odchylenie powinno być jak najmniejsze(minimalizacja błedu pomiaru).
+
+Średnia błędu względnego pomiaru kaloryczności (płaszczyzna): -0.017 % (~0%)
+Odchylenie błedu względnego pomiaru kaloryczności (płaszczyzna): 1.966 %
+Średnia błędu względnego pomiaru kaloryczności (paraboloida): 0.005 %(~0%)
+Odchylenie błedu względnego pomiaru kaloryczności (paraboloida): 1.713 %
+
+###############################################################################################################################################
+02 - Obliczenie wartości odchyleń parametrów kaloryczności dla oddzielnie dla każdej temperatury
+###############################################################################################################################################
+## Pobobnie jak wyżej tylko oddzielnie dla każdej temperatury - bez regresji liniowej
+## Wartość oczekiwana powinna wynosić 0 (poprawność regresji), a odchylenie powinno być jak najmniejsze (minimalizacja błedu pomiaru).
+## Wartości spodziewane podane w nawiasach
+
+Średnia błędu bezwzględnego parametru C (płaszczyzna) dla temperatury 650: -0.000 (=0.0)
+Odchylenie błedu względnego parametru C (płaszczyzna) dla temperatury 650: 0.532 (<0.170)%
+Średnia błędu bezwzględnego parametru D (płaszczyzna) dla temperatury 650: -0.000 (=0.0)
+Odchylenie błędu względnego parametru D (płaszczyzna) dla temperatury 650: 0.482 (<0.150)% 
+
+Średnia błędu bezwzględnego parametru C (paraboloida) dla temperatury 650: -0.000 (=0.0)
+Odchylenie błedu względnego parametru C (paraboloida) dla temperatury 650: 0.060 (<0.110)% 
+Średnia błędu bezwzględnego parametru D (paraboloida) dla temperatury 650: 0.000 (=0.0)
+Odchylenie błędu względnego parametru D (paraboloida) dla temperatury 650: 0.064 (<0.050)% 
+
+
+Średnia błędu względnego kalorycznosci (płaszczyzna) dla temperatury 650 (kalibracja i obliczanie): -0.016 (=0.0)
+Odchylenie błedu względnego kalorycznosci (płaszczyzna) dla temperatury 650 (kalibracja i obliczanie): 2.093 (<1.5)% 
+
+Średnia błędu względnego kalorycznosci (paraboloida) dla temperatury 650 (kalibracja i obliczanie): 0.011 (=0.0)
+Odchylenie błedu względnego kalorycznosci (paraboloida) dla temperatury 650 (kalibracja i obliczanie): 1.821 (<1.5)% 
+
+
+Średnia błędu bezwzględnego parametru C (płaszczyzna) dla temperatury 660: -0.000 (=0.0)
+Odchylenie błedu względnego parametru C (płaszczyzna) dla temperatury 660: 0.519 (<0.170)%
+Średnia błędu bezwzględnego parametru D (płaszczyzna) dla temperatury 660: -0.000 (=0.0)
+Odchylenie błędu względnego parametru D (płaszczyzna) dla temperatury 660: 0.471 (<0.150)% 
+
+Średnia błędu bezwzględnego parametru C (paraboloida) dla temperatury 660: -0.000 (=0.0)
+Odchylenie błedu względnego parametru C (paraboloida) dla temperatury 660: 0.057 (<0.110)% 
+Średnia błędu bezwzględnego parametru D (paraboloida) dla temperatury 660: -0.000 (=0.0)
+Odchylenie błędu względnego parametru D (paraboloida) dla temperatury 660: 0.064 (<0.050)% 
+
+
+Średnia błędu względnego kalorycznosci (płaszczyzna) dla temperatury 660 (kalibracja i obliczanie): -0.004 (=0.0)
+Odchylenie błedu względnego kalorycznosci (płaszczyzna) dla temperatury 660 (kalibracja i obliczanie): 1.706 (<1.5)% 
+
+Średnia błędu względnego kalorycznosci (paraboloida) dla temperatury 660 (kalibracja i obliczanie): 0.003 (=0.0)
+Odchylenie błedu względnego kalorycznosci (paraboloida) dla temperatury 660 (kalibracja i obliczanie): 1.560 (<1.5)% 
+
+
+Średnia błędu bezwzględnego parametru C (płaszczyzna) dla temperatury 670: 0.000 (=0.0)
+Odchylenie błedu względnego parametru C (płaszczyzna) dla temperatury 670: 0.503 (<0.170)%
+Średnia błędu bezwzględnego parametru D (płaszczyzna) dla temperatury 670: -0.000 (=0.0)
+Odchylenie błędu względnego parametru D (płaszczyzna) dla temperatury 670: 0.454 (<0.150)% 
+
+Średnia błędu bezwzględnego parametru C (paraboloida) dla temperatury 670: -0.000 (=0.0)
+Odchylenie błedu względnego parametru C (paraboloida) dla temperatury 670: 0.061 (<0.110)% 
+Średnia błędu bezwzględnego parametru D (paraboloida) dla temperatury 670: -0.000 (=0.0)
+Odchylenie błędu względnego parametru D (paraboloida) dla temperatury 670: 0.058 (<0.050)% 
+
+
+Średnia błędu względnego kalorycznosci (płaszczyzna) dla temperatury 670 (kalibracja i obliczanie): -0.026 (=0.0)
+Odchylenie błedu względnego kalorycznosci (płaszczyzna) dla temperatury 670 (kalibracja i obliczanie): 1.923 (<1.5)% 
+
+Średnia błędu względnego kalorycznosci (paraboloida) dla temperatury 670 (kalibracja i obliczanie): 0.006 (=0.0)
+Odchylenie błedu względnego kalorycznosci (paraboloida) dla temperatury 670 (kalibracja i obliczanie): 1.540 (<1.5)% 
+
+
+###############################################################################################################################################
+03 - Obliczenie wartości średniej i odchylenia prostej regresji obliczanej dla poszczególnych składów (przy zmianie temperatury)
+###############################################################################################################################################
+## Sprawdzenie na ile poprawne jest zastosowanie regresji liniowej do aproksymacji parametrów C i D w różnych temp. dla tego samego składu.
+## Wartości spodziewane podane w nawiasach
+
+Średnia współczynnika korelacji C dla wszystkich temperatur: -0.99985 (ok. -1)
+Odchylenie współczynnika korelacji C dla wszystkich temperatur: 0.0002970 (ok. 0.005)
+
+
+Średnia współczynnika korelacji D dla wszystkich temperatur: 0.99991 (ok. 1)
+Odchylenie współczynnika korelacji D dla wszystkich temperatur: 0.0001317 (ok. 0.001)
+
+
+###############################################################################################################################################
+04 - Obliczenie wpływu stałych błędów dodanych do parametrów C i D na wartości błędów kaloryczności
+###############################################################################################################################################
+## Sprawdzenie wpływu stałego błędu o określonej w skrypcie wartości (0.1%) na błąd pomiaru kaloryczności 
+## Oblicznono dla 4 przypadków różniacych się znakiem błędu +/- C i +/- D 
+## Im mniejsza warość bezwzględna średniej, minimalnej i maksymalnej tym lepiej. 
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 650.0, C = 0.10%, D = 0.10%: średni = -0.337%, maks = -0.201%, min = -0.580%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 650.0, C = 0.10%, D = 0.10%: średni = -0.350%, maks = -0.292%, min = -0.464%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 650.0, C = 0.10%, D = -0.10%: średni = 4.660%, maks = 6.851%, min = 3.579%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 650.0, C = 0.10%, D = -0.10%: średni = 4.777%, maks = 5.916%, min = 4.213%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 650.0, C = -0.10%, D = 0.10%: średni = -4.660%, maks = -3.579%, min = -6.851%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 650.0, C = -0.10%, D = 0.10%: średni = -4.662%, maks = -4.121%, min = -5.821%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 650.0, C = -0.10%, D = -0.10%: średni = 0.337%, maks = 0.580%, min = 0.201%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 650.0, C = -0.10%, D = -0.10%: średni = 0.350%, maks = 0.465%, min = 0.292%
+
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 660.0, C = 0.10%, D = 0.10%: średni = -0.321%, maks = -0.190%, min = -0.555%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 660.0, C = 0.10%, D = 0.10%: średni = -0.329%, maks = -0.250%, min = -0.512%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 660.0, C = 0.10%, D = -0.10%: średni = 4.575%, maks = 6.749%, min = 3.499%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 660.0, C = 0.10%, D = -0.10%: średni = 4.620%, maks = 6.444%, min = 3.678%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 660.0, C = -0.10%, D = 0.10%: średni = -4.575%, maks = -3.499%, min = -6.749%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 660.0, C = -0.10%, D = 0.10%: średni = -4.592%, maks = -3.651%, min = -6.413%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 660.0, C = -0.10%, D = -0.10%: średni = 0.321%, maks = 0.555%, min = 0.190%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 660.0, C = -0.10%, D = -0.10%: średni = 0.329%, maks = 0.512%, min = 0.250%
+
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 670.0, C = 0.10%, D = 0.10%: średni = -0.294%, maks = -0.172%, min = -0.514%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 670.0, C = 0.10%, D = 0.10%: średni = -0.306%, maks = -0.248%, min = -0.410%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 670.0, C = 0.10%, D = -0.10%: średni = 4.378%, maks = 6.480%, min = 3.335%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 670.0, C = 0.10%, D = -0.10%: średni = 4.468%, maks = 5.525%, min = 3.908%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 670.0, C = -0.10%, D = 0.10%: średni = -4.378%, maks = -3.335%, min = -6.480%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 670.0, C = -0.10%, D = 0.10%: średni = -4.364%, maks = -3.828%, min = -5.440%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 670.0, C = -0.10%, D = -0.10%: średni = 0.294%, maks = 0.514%, min = 0.172%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 670.0, C = -0.10%, D = -0.10%: średni = 0.306%, maks = 0.410%, min = 0.249%
+
+
+###############################################################################################################################################
+05 - Obliczenie wpływu losowych błedów o rozkładzie normalnym dodanych do parametrów C i D na wartości błędów kaloryczności
+###############################################################################################################################################
+## Sprawdzenie wpływu stałego błędu o rozkładzie normalnym o odchyleniu (0.1%) 
+## Błędy dla parametrów C i D losowane niezależnie 
+## Im mniejsza warość bezwzględna średniej, minimalnej i maksymalnej tym lepiej. 
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 650.0: odchylenie = 3.351%, średni = 0.021%, maks = 14.767%, min = -15.244%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 650.0: odchylenie = 3.369%, średni = 0.053%, maks = 13.869%, min = -12.823%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 660.0: odchylenie = 3.244%, średni = -0.030%, maks = 14.847%, min = -14.975%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 660.0: odchylenie = 3.254%, średni = -0.024%, maks = 14.592%, min = -14.854%
+
+Błąd względny wyznacznia kaloryczności (aproksymacja płaszczyzną) T = 670.0: odchylenie = 3.153%, średni = 0.027%, maks = 14.896%, min = -13.718%
+Błąd względny wyznacznia kaloryczności (aproksymacja paraboloidą) T = 670.0: odchylenie = 3.152%, średni = 0.055%, maks = 14.111%, min = -12.287%
+
+###############################################################################################################################################
+06 - Sprawdzenie normalności resztkowych błedów regresji dla parametrów C i D za pomocą testu Chi2
+###############################################################################################################################################
+## Zastosowanie testu Chi2 do weryfikacji normalności rozkładu błędów resztkowych regresji powierzchniowej 
+## Dodatkowo sprawdzono współczynnik skośności i współczynnik płaskości (kurtozę), 
+## oraz sprawdzono za pomoca testu Z ile potencjalnych obserwacji odstających (outlier)
+## Im mniejsza warość statystyki Chi2 i ilość pomiarów odstających tym lepiej
+## Warości współczynników skośności i płaskości powinny być jak najbliżej 0.
+
+Dla temperatury 650 
+Wartości statystyki Chi2 31.722 (Chi kryt = 14.067) 
+Czy rozkład normalny dla C (płaszczyzna) przy z poziomem istotności 0.050 przy 10 przedziałach: NIE
+Współczynnik skośności (poprawna wartość ~0): -0.846 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.059
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 23.532 (Chi kryt = 14.067) 
+Czy rozkład normalny dla D (płaszczyzna) przy z poziomem istotności 0.050 przy 10 przedziałach: NIE
+Współczynnik skośności (poprawna wartość ~0): -0.785 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.050
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 9.221 (Chi kryt = 14.067) 
+Czy rozkład normalny dla C (paraboloida) przy z poziomem istotności 0.050 przy 10 przedziałach: TAK
+Współczynnik skośności (poprawna wartość ~0): -0.272 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.038
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 2.487 (Chi kryt = 14.067) 
+Czy rozkład normalny dla D (paraboloida) przy z poziomem istotności 0.050 przy 10 przedziałach: TAK
+Współczynnik skośności (poprawna wartość ~0): -0.191 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.065
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Dla temperatury 660 
+Wartości statystyki Chi2 25.793 (Chi kryt = 14.067) 
+Czy rozkład normalny dla C (płaszczyzna) przy z poziomem istotności 0.050 przy 10 przedziałach: NIE
+Współczynnik skośności (poprawna wartość ~0): -0.766 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.052
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 27.611 (Chi kryt = 14.067) 
+Czy rozkład normalny dla D (płaszczyzna) przy z poziomem istotności 0.050 przy 10 przedziałach: NIE
+Współczynnik skośności (poprawna wartość ~0): -0.759 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.047
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 11.554 (Chi kryt = 14.067) 
+Czy rozkład normalny dla C (paraboloida) przy z poziomem istotności 0.050 przy 10 przedziałach: TAK
+Współczynnik skośności (poprawna wartość ~0): -0.019 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.038
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 4.928 (Chi kryt = 14.067) 
+Czy rozkład normalny dla D (paraboloida) przy z poziomem istotności 0.050 przy 10 przedziałach: TAK
+Współczynnik skośności (poprawna wartość ~0): 0.196 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.042
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Dla temperatury 670 
+Wartości statystyki Chi2 32.713 (Chi kryt = 14.067) 
+Czy rozkład normalny dla C (płaszczyzna) przy z poziomem istotności 0.050 przy 10 przedziałach: NIE
+Współczynnik skośności (poprawna wartość ~0): -0.802 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.054
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 20.100 (Chi kryt = 14.067) 
+Czy rozkład normalny dla D (płaszczyzna) przy z poziomem istotności 0.050 przy 10 przedziałach: NIE
+Współczynnik skośności (poprawna wartość ~0): -0.750 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.051
+Liczba błędów poza obszaerem +/-3 sigma: 0 
+
+Wartości statystyki Chi2 10.160 (Chi kryt = 14.067) 
+Czy rozkład normalny dla C (paraboloida) przy z poziomem istotności 0.050 przy 10 przedziałach: TAK
+Współczynnik skośności (poprawna wartość ~0): 0.095 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.119
+Liczba błędów poza obszaerem +/-3 sigma: 1 
+
+Wartości statystyki Chi2 7.453 (Chi kryt = 14.067) 
+Czy rozkład normalny dla D (paraboloida) przy z poziomem istotności 0.050 przy 10 przedziałach: TAK
+Współczynnik skośności (poprawna wartość ~0): 0.017 
+Współczynnik płaskości - kurtoza (poprawna wartość ~0): -0.115
+Liczba błędów poza obszaerem +/-3 sigma: 1 
+
+###############################################################################################################################################
+07 - Wyznaczenie kąta między prostymi uzyskanymi dla stałej wartości C i D (regresja płaszczyznowa)
+###############################################################################################################################################
+## Kąt miedzy prostymi i płaszczyznami określa niezależność parametrów C i D.
+## Im większa wartość bezwzględna tym lepiej.
+
+Dla temperatury 650 
+COS kąta nachylenia płaszczyzn względem siebie: 0.99664
+Kąt nachylenia płaszczyzn względem siebie: 4.700
+TAN kąta nachylenia prostych dla konkretnych wartosci parametru względem siebie: -0.10652
+Kąt nachylenia prostych dla konkretnych wartosci parametru względem siebie: -6.080
+
+Dla temperatury 660 
+COS kąta nachylenia płaszczyzn względem siebie: 0.99663
+Kąt nachylenia płaszczyzn względem siebie: 4.708
+TAN kąta nachylenia prostych dla konkretnych wartosci parametru względem siebie: -0.11522
+Kąt nachylenia prostych dla konkretnych wartosci parametru względem siebie: -6.572
+
+Dla temperatury 670 
+COS kąta nachylenia płaszczyzn względem siebie: 0.99653
+Kąt nachylenia płaszczyzn względem siebie: 4.778
+TAN kąta nachylenia prostych dla konkretnych wartosci parametru względem siebie: -0.12803
+Kąt nachylenia prostych dla konkretnych wartosci parametru względem siebie: -7.296
+
